@@ -1,0 +1,116 @@
+        /* ПОЛЕ БОЯ */
+
+.MySea
+{
+    border-collapse: collapse;
+}
+
+.MySea td
+{
+    border: 2px solid darkslategray;
+    
+}
+
+.MySea td, .MySea th
+{
+    width: 30px;
+    height: 30px;
+}
+
+
+        /* КОРАБЛИКИ */
+
+.Ship4
+{
+    background-image: url(Ship/Ship4.png);
+    background-size: 190px;
+    background-position: -35px -43px;
+}
+.Ship4W2
+{
+    background-image: url(Ship/Ship4.png);
+    background-size: 190px;
+    background-position: -65px -43px;
+}
+.Ship4W3
+{
+    background-image: url(Ship/Ship4.png);
+    background-size: 190px;
+    background-position: -77px -43px;
+}
+.Ship4W4
+{
+    background-image: url(Ship/Ship4.png);
+    background-size: 190px;
+    background-position: -106px -43px;
+}
+
+        /* Трёх палубный */
+
+.Ship3
+{
+      background-image: url(Ship/Ship3.png);
+    background-size: 78px;
+    background-position: 10px -52px;
+    background-repeat: no-repeat;
+}
+.Ship3T2
+{
+      background-image: url(Ship/Ship3.png);
+    background-size: 78px;
+    background-position: -21px -52px;
+    background-repeat: no-repeat;
+}
+.Ship3T1
+{
+      background-image: url(Ship/Ship3.png);
+    background-size: 78px;
+    background-position: -51px -52px;
+    background-repeat: no-repeat;
+}
+
+    /* Двух палубный */
+
+.Ship2
+{
+     background-image: url(Ship/Ship2.png);
+    background-size: 85px;
+    background-position: 59px 3px;
+}
+
+.Ship2S0
+{
+     background-image: url(Ship/Ship2.png);
+    background-size: 85px;
+    background-position: 59px -14px;
+}
+
+.Ship2H
+{
+    background-image: url(Ship/Ship2H.png);
+    background-size: 85px;
+    background-position: -16px -7px;
+}
+
+.Ship2H0
+{
+    background-image: url(Ship/Ship2H.png);
+    background-size: 85px;
+    background-position: -33px -7px;
+}
+
+        /* одно палубный */
+.Ship1
+{
+    background-image: url(Ship/Ship1.png);
+    background-size: 60px;
+    background-position: -14px 0px;
+}
+
+        /* бомбочка */
+.bomb
+{
+    background-image: url(Ship/bomb.png);
+    background-size: 60px;
+    background-position: -13px 0px;
+}
